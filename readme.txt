@@ -1,13 +1,5 @@
 Project Title :- Sports Analytics Dashboard
 
-Group Members :-
-
-Yash Chavda - KU2407U239
-Kush Saraf - KU2407U121
-Karan Lamoria - KU2407U099
-Jayom Devra - KU2407U087
-
-
 Objective :-
 
 IPL Dashboard
